@@ -30,5 +30,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on my personal portfolio, soon to be deployed
 ### 🌱 I’m currently learning Solidity, for creating smart contract, and also React native, for mobile apps
-### 📫 How to reach me: -[Linkedin](https://www.linkedin.com/in/facundovidiella/) -[Gmail](facuvidiella@gmail.com)
+### 📫 How to reach me: 
+-[Linkedin](https://www.linkedin.com/in/facundovidiella/) 
+-[Gmail](facuvidiella@gmail.com)
                         
