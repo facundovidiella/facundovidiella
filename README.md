@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My name is Facundo, i'm a 25 year old Full Stack Developer with extensive knowledge in the following technologies:
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AReact.svg&psig=AOvVaw0DYzaYYUbbuGbqQpKfqneY&ust=1638821332475000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDX28G7zfQCFQAAAAAdAAAAABAJ)
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stockio.com%2Ffree-icon%2Freact&psig=AOvVaw0DYzaYYUbbuGbqQpKfqneY&ust=1638821332475000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDX28G7zfQCFQAAAAAdAAAAABAP)
 
 ### 🔭 I’m currently working on my personal portfolio, soon to be deployed
 ### 🌱 I’m currently learning Solidity, for creating smart contract, and also React native, for mobile apps
