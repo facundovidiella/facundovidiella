@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, my name is Facundo Vidiella👋
 
 <!--
 **FacuVidiella/FacuVidiella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## My name is Facundo, i'm a 25 year old Full Stack Developer with extensive knowledge in the following technologies:
-![image](https://vecta.io/symbols/94/brands-ra-rz/22/react-icon)
+## I'm a 25 year old Full Stack Developer with extensive knowledge in the following technologies:
+![image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)
 
 ### 🔭 I’m currently working on my personal portfolio, soon to be deployed
 ### 🌱 I’m currently learning Solidity, for creating smart contract, and also React native, for mobile apps
