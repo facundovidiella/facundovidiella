@@ -15,22 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My name is Facundo, i'm a 25 year old Full Stack Developer with extensive knowledge in the following technologies:
--Language: 
- -JavaScript
--Front-end: 
- -React
- -Redux
- -CSS(Styled Components, pure CSS, CSS modules)
--Back-end:
- -ExpressJs
- -NodeJs
- -Sequelize ORM
--Database:
- -PostgreSQL
+![image](https://www.digital55.com/wp-content/uploads/2019/07/%C2%BFQue%CC%81-cualidades-debe-tener-un-desarrollador-especialista-en-React.png?x72330)
 
 ### 🔭 I’m currently working on my personal portfolio, soon to be deployed
 ### 🌱 I’m currently learning Solidity, for creating smart contract, and also React native, for mobile apps
 ### 📫 How to reach me: 
 [Linkedin](https://www.linkedin.com/in/facundovidiella/) 
-[facuvidiella@gmail.com]
+facuvidiella@gmail.com
+                        
                         
