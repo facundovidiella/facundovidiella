@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I'm a 25 year old Full Stack Developer with extensive knowledge in the following technologies:
-<img  width:"10" height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+![nodejs](https://user-images.githubusercontent.com/77370973/144762832-d0199d27-b10b-4840-b67c-be231b3a2a7d.png)
+![react](https://user-images.githubusercontent.com/77370973/144762893-5b1fd88a-97d5-4db8-bc5b-cea8ce3bd5f5.png)
+![javascript](https://user-images.githubusercontent.com/77370973/144762896-69802942-ae36-48e1-bca2-ea69ef019d0d.png)
+
 
 ### 🔭 I’m currently working on my personal portfolio, soon to be deployed
 ### 🌱 I’m currently learning Solidity, for creating smart contract, and also React native, for mobile apps
