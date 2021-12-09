@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 #### 🌱 I’m currently learning Solidity and React native
-#### 📫 How to reach me: <img height="20" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> [Linkedin](https://www.linkedin.com/in/facundovidiella/) <img heigth="20" width="20" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"> facuvidiella@gmail.com 💼 [Portfolio](facuvidiella.com.ar)
+#### 📫 How to reach me: <img height="20" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> [Linkedin](https://www.linkedin.com/in/facundovidiella/) <img heigth="20" width="20" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"> facuvidiella@gmail.com 💼 [Portfolio](https://www.facuvidiella.com.ar/)
  
 
                         
