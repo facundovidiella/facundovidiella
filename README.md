@@ -1,4 +1,4 @@
-#### Hi there, my name is Facundo Vidiella :vulcan_salute:
+#### Hi there, my name is Facundo Vidiella ✋
 
 <!--
 **FacuVidiella/FacuVidiella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
