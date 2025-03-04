@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### I'm a 28 years old Back End Developer with professional experience developing with golang and nodejs
+#### I'm a 28 years old Back End Software Engineer with professional experience developing with Go and Node
 
 
 #### 📫 How to reach me: <img height="15" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> [Linkedin](https://www.linkedin.com/in/facundovidiella/) :email: facuvidiella@gmail.com 💼 [Portfolio](https://www.facuvidiella.com.ar/)
