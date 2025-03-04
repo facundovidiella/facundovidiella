@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 #### I'm a 28 years old Back End Developer with professional experience developing with golang and nodejs
 
 
-#### 📫 How to reach me: <img height="15" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> [Linkedin](https://www.linkedin.com/in/facundovidiella/) <img heigth="15" width="15" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"> facuvidiella@gmail.com 💼 [Portfolio](https://www.facuvidiella.com.ar/)
+#### 📫 How to reach me: <img height="15" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> [Linkedin](https://www.linkedin.com/in/facundovidiella/) :email: facuvidiella@gmail.com 💼 [Portfolio](https://www.facuvidiella.com.ar/)
  
 
                         
